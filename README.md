@@ -3,7 +3,7 @@ How to implement Data stuctures and use algorithms that can optimize run time an
 
 # Data-Stuctures-Algorithms implemented/ tested 
 
-##Sorting Algorithms
+## Sorting Algorithms
 
 < br/>Bubble sort < br/>
 Selection sort < br/>
@@ -11,16 +11,16 @@ Insertion sort < br/>
 Merge sort < br/>
 Quick sort < br/>
 
-##Dynamic programming
+## Dynamic programming
 
 Finding the max sub array using dynamic programming
 
 
-##Hashing 
+## Hashing 
 
-##Graphs 
+## Graphs 
 
-##Trees
+## Trees
 
 
 
