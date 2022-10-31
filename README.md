@@ -5,7 +5,7 @@ How to implement Data stuctures and use algorithms that can optimize run time an
 
 ## Sorting Algorithms
 
-< br/>Bubble sort < br/>
+< br />Bubble sort < br />
 Selection sort < br/>
 Insertion sort < br/>
 Merge sort < br/>
