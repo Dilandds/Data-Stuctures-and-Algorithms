@@ -18,9 +18,24 @@ Finding the max sub array using dynamic programming
 
 ## Hashing 
 
+### Double Hashing
+
+Implement a double-hashing hash table in Java with the necessary helper
+methods. This hash table has the hash function ℎ(𝑘) = 𝑘 % 𝑁, where k is the
+key and N is the capacity of the hash table. The collisions are handled using
+double hashing with the probe function,
+𝑝(𝑘, 𝑖) = 𝑖 ∗ {1 + 𝑘%(𝑁 − 1)} where i is the iteration.
+
+### Chaining
+
+Implement a hash table that uses separate chaining using the Java LinkedList
+class. You are free to choose the number of slots (N) in the hash table and the
+hash function should be, ℎ(𝑘) = 𝑘 % 𝑁 where k is the integer key. The value
+inserted is a string
+
 ## Graphs 
 
-#1
+<b>1 </b>
 
 ### Bipartite
 
@@ -35,11 +50,25 @@ Java code to get the transitive closure of a graph using <b>depth-first search (
 graph is represented as an adjacency list. The number of vertices of the graph is to be passed
 into its constructor
 
-#2
+<b>2</b>
 
-
+Solving a least cost problem with <b>Dijkstra’s shortest path algorithm </b>
 
 ## Trees
 
+### AVL
+
+Using the given node class, implement an AVL tree. With Methods
+for inserting a node, removing a node, and searching for a value in
+that AVL tree.
+ Implement methods to perform pre-order, in-order, and post-order
+traversal on the implemented AVL tree.
+Main method and demonstrate the functions that you have
+implemented
+
+### HEAP
+
+Implement a min-heap using an array. The maximum size of the heap
+is passed in at the time of construction
 
 
