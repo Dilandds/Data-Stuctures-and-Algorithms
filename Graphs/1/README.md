@@ -1,4 +1,4 @@
-# Bipartite.java 
+# Bipartite
 
 In graph theory, a bipartite graph is a graph in which the vertices can be divided into two
 disjoint sets. Every edge in the graph connects a vertex in one set to a vertex in the other set.
