@@ -5,7 +5,7 @@ disjoint sets. Every edge in the graph connects a vertex in one set to a vertex 
 Using <b>breadth-first search (BFS)</b>, design an algorithm to find out whether a graph given as an
 adjacency matrix is a bipartite graph.
 
-#
+#TC_DFS
 
 Java code to get the transitive closure of a graph using <b>depth-first search (DFS)</b>. The
 graph is represented as an adjacency list. The number of vertices of the graph is to be passed
